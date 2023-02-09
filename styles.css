@@ -6,3 +6,10 @@ body {
   background-color: black;
   color: white;
 }
+.name {
+  line-height: 0.2;
+}
+.byline {
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1;
+}
